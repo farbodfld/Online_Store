@@ -3,7 +3,7 @@ Online store implementation in the console environment with object-oriented.
 
 Introducing the parts of the project
 
-##### Different users
+# Different users
 4 types of users are defined in this store.
 
 ### Admin
