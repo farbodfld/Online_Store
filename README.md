@@ -6,7 +6,7 @@ Introducing the parts of the project
 ## Different users
 4 types of users are defined in this store.
 
-### Admin
+## Admin
 The site admin is only one person. In the first run of the program, he must register his username and password in the system. Admin should also create producer and porter users and assign them username and password.
 Discount options are explained in the relevant section. Also, this user has access to all statistics. You will learn more about the statistics in the continuation of the project.
 
