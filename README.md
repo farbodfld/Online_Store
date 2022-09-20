@@ -10,10 +10,10 @@ Introducing the parts of the project
 The site admin is only one person. In the first run of the program, he must register his username and password in the system. Admin should also create producer and porter users and assign them username and password.
 Discount options are explained in the relevant section. Also, this user has access to all statistics. You will learn more about the statistics in the continuation of the project.
 
-### Producer
+## Producer
 The producer user has a product that he wants to put on the site for sale, and in case of sale, he will earn profit and get money. When the producer enters the system with the username and password defined by the admin user, he has the ability to add and delete his own species. Note that the added product has no sales limit! That is, the manufacturer only imports his own type of products, thereby guaranteeing that he has an unlimited amount of this product in stock.
 
-### porter
+## porter
 Porters are responsible for the transfer of customer orders (shipments), so after logging into the system, they deal with the type, name and volume of orders. Porters log in to the system with the username and password defined for them by the administrator. After logging in to the system, they can access the four menus of customer orders, shipments being sent, orders sent and changing the vehicle.
 
 1.	Customers' orders: In this menu, every porter sees a list of products ordered by customers. Each carrier can choose a number of them from among the orders and take the responsibility of delivering them to the customer. By selecting an order by the carrier, that order is removed from the list of customer orders and added to the list of shipments being sent by that carrier.
@@ -40,7 +40,7 @@ Each customer can view one of the following lists by logging into their account:
 
 4.	Goods in the shipping order: When the user chooses a product for purchase, the product does not reach him immediately, but it happens when one of the carriers transfers the goods for him. Meanwhile, the user can see the list of products that are being sent.
 
-### Shop items
+## Shop items
 The goods that can be sold in this store are divided into three main categories:
     * Food
     * clothing
@@ -55,7 +55,7 @@ Electronic devices include the categories of mobile phones, televisions and game
 Products that fit in the category of mobile phones and televisions must have the screen size.
 Products that fall into the game console category must have a list of accompanying item names.
 
-### Discount system
+## Discount system
 One of the criteria for choosing an online store is the amount of discount on its products. The discount can be applied to different products, which is the application of the discount in the hands of the manufacturer or admin.
 Statistics and reports
 As mentioned in different sections, there are different statistics. In fact, you should store the information related to various events in your program, and when the statistics are requested, output the relevant statistics depending on who requested what statistics. The statistics that can be obtained are:
@@ -72,5 +72,5 @@ As mentioned in different sections, there are different statistics. In fact, you
 
 * List of products sold by each manufacturer
 
-### User interface section
+## User interface section
 The program communicates with the user through the console. Note that the details of how the application and the user communicate are up to you, but it must support all parts of the application.
